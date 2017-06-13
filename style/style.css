@@ -1,0 +1,12 @@
+.book-details{
+  border: 1px solid #ddd;
+  background-color: #eee;
+}
+
+.list-group-item{
+  cursor: pointer;
+}
+
+.list-group-item:hover{
+  background-color: #eee;
+}
